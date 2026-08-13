@@ -5,11 +5,11 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background: #a13838;
+  background: #3849a1;
 }
 
 .card {
-  background: green;
+  background: whitesmoke;
   padding: 2rem 3rem;
   border-radius: 10px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
